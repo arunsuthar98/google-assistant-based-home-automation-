@@ -40,6 +40,11 @@
 ![blynk]
 
 ### arduino 
->you can ode direct from blynk website.
-  - ##[CODE](https://examples.blynk.cc/?board=ESP32&shield=ESP32%20WiFi&example=GettingStarted%2FPushData)\
+>you can take code direct from blynk website.
+  -[arduino CODE](https://examples.blynk.cc/?board=ESP32&shield=ESP32%20WiFi&example=GettingStarted%2FPushData)\
 >you add your wifi name and password and authorizer code to this code.
+
+### IFTTT
+>Till now we make a iot project with control with app.\
+>now we connect with google assistant.\
+>for that take ifttt website make a webhoke and take blynkserver and enter in that
