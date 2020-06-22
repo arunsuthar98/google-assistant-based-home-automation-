@@ -29,3 +29,17 @@
 ## Connection
 ![Desktop](esp.jpg)
  
+ 
+## softwrer
+
+### blynk
+>first you download blynk app from playstore\
+>after you dowload make account and take new project.\
+>select esp32 boad and take button and take gpio pin which you connect with relay.
+>blynk app mail you a authorizer code save that code for later codeing.
+![blynk]
+
+### arduino 
+>you can ode direct from blynk website.
+  - ##[CODE](https://examples.blynk.cc/?board=ESP32&shield=ESP32%20WiFi&example=GettingStarted%2FPushData)\
+>you add your wifi name and password and authorizer code to this code.
