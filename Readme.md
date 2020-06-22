@@ -21,10 +21,10 @@
 >power supply
 
 ### softwere
->arduino ide(https://www.arduino.cc/en/main/software) \
->IFTTT(https://ifttt.com/) \
->blynk(https://blynk.io/) 
+>[arduino ide](https://www.arduino.cc/en/main/software) \
+>[IFTTT](https://ifttt.com/) \
+>[blynk](https://blynk.io/) 
 
 
 ## Connection
-[arun](https://www.google.com/url?sa=i&url=https%3A%2F%2Frandomnerdtutorials.com%2Fesp32-relay-module-ac-web-server%2F&psig=AOvVaw2tDxi5MnmgwG2R03HwVGTe&ust=1592923077464000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjv1oPTleoCFQAAAAAdAAAAABAJ)
+[arun] (https://www.google.com/url?sa=i&url=https%3A%2F%2Frandomnerdtutorials.com%2Fesp32-relay-module-ac-web-server%2F&psig=AOvVaw2tDxi5MnmgwG2R03HwVGTe&ust=1592923077464000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjv1oPTleoCFQAAAAAdAAAAABAJ)
