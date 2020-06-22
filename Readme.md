@@ -37,7 +37,7 @@
 >after you dowload make account and take new project.\
 >select esp32 boad and take button and take gpio pin which you connect with relay.
 >blynk app mail you a authorizer code save that code for later codeing.
-![blynk]
+![blynk](b1.jpg)
 
 ### arduino 
 >you can take code direct from blynk website.
