@@ -18,9 +18,9 @@
 >relay\
 >led blud\
 >jummer wire\
->power supply\
+>power supply
 
 ### softwere
->arduino ide(https://www.arduino.cc/en/main/software)\
->IFTTT(https://ifttt.com/)\
->blynk(https://blynk.io/)\
+>arduino ide(https://www.arduino.cc/en/main/software) \
+>IFTTT(https://ifttt.com/) \
+>blynk(https://blynk.io/) 
